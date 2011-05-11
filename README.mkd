@@ -1,0 +1,5 @@
+A simple command line script that shows the next few DARTs (Dublin Area Rapid Transit) for a given station and travel direction.
+
+Adding new stations is straightforward and (I hope) self-evident from the code. Patches welcome if you add more stations!
+
+**Requirements:** feedparser module (pip install feedparser)
